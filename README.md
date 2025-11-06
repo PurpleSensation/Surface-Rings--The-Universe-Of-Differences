@@ -36,28 +36,7 @@ A boundary‑first framework for physics where “difference” and “consensus
 Optional: legacy long‑form context
 - Research Journal/Surface_Rings_front_paper.tex (older, detailed narrative)
 
-## Build (PDFs)
-
-You need a LaTeX engine with TikZ for figures.
-
-- Quick: `pdflatex` (or `xelatex`) run twice per file
-```
-pdflatex Research\ Journal/Surfeon_Frontend.tex
-pdflatex Research\ Journal/Surfeon_Frontend.tex
-pdflatex Research\ Journal/SR_Accessible_Euclidean_Examples.tex
-pdflatex Research\ Journal/SR_Accessible_Euclidean_Examples.tex
-pdflatex Research\ Journal/SR_Formalization_and_Validations.tex
-pdflatex Research\ Journal/SR_Formalization_and_Validations.tex
-```
-- Recommended: `latexmk -pdf` if available.
-
-## What’s new (technical)
-
-- Knee‑free spectral modeling: replace heuristic “knees” with positive spectral measures in Z’s Herglotz/Stieltjes representations → causality + passivity preserved across domains.
-- J‑complex algebra: per polarization, S‑ring operators behave like complex numbers with `J² = −I`, with a Z₂ orientation grading.
-- Surfeon framing: particles as quantized modes on lossless bands; composites as S‑chains.
-
-## Validations (at a glance)
+## Validations (among more to be posted)
 
 - GR (IR window): weak‑field lensing/time‑delay (Cassini corridor) constrains the small‑K neighborhood of `Ξ(K) = Re Z(0, K)`.
 - Hydrogen overlays: `ΔE_2S→2P = C ∫ Ξ(K) [W_2S − W_2P] dK`, `ΔE_1S = C ∫ Ξ(K) W_1S dK`; same `Ξ`, one `C`; optional UV spectral density for 1S suppression.
@@ -83,7 +62,7 @@ Please open an issue with concise context, the file path(s) you’re targeting, 
 
 ## Cite
 
-“Surface Rings (S‑rings) as Particles (Front‑End)”, H. Salval, v0.1, (year). Companion: “Surface Rings: Formal Definitions, Characterization, and Cross‑Domain Validations”.
+“Surface Rings: The Universe of Differences”, H. Salval, v0.1, (2025).
 
 ## License
 
