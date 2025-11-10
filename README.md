@@ -29,6 +29,16 @@ A boundary‑first framework for physics where “difference” and “consensus
   - Surface_Rings_front_paper.tex — legacy long‑form front paper
 - S‑rings/ (optional) — alternate location for a compiled front‑end draft
 
+## Technical drawings
+
+Gravity resonator (edge S‑ring well with bus coupling):
+
+![Gravity resonator](docs/fig_gravity_resonator.svg)
+
+Array of resonators and far‑field behavior (array factor × element pattern):
+
+![Resonator array](docs/fig_resonator_array.svg)
+
 ## Contributing
 
 Feedback and PRs welcome — especially on:
